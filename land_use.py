@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Space Apps 2020 Challenge
+Food Will Hunting - Khang Nguyen, Rebecca Walters, Emily Faithful
 """
 
 from PIL import Image
